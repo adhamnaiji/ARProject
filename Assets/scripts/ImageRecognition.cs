@@ -10,7 +10,7 @@ using UnityEngine.UI;
 public class ImageRecognition : MonoBehaviour
 {
 
-    public GameObject watch1;//black
+   /* public GameObject watch1;//black
     public GameObject watch2;//white
     public GameObject watch3;//blue
 
@@ -18,7 +18,7 @@ public class ImageRecognition : MonoBehaviour
 
      public GameObject w1;
     public GameObject w2;
-    public GameObject w3;
+    public GameObject w3;*/
 
 
     private ARTrackedImageManager _arTrackedImageManager;
@@ -29,7 +29,6 @@ public class ImageRecognition : MonoBehaviour
     {
         _arTrackedImageManager = FindObjectOfType<ARTrackedImageManager>();
         
-
     }
 
     public void OnEnable()
@@ -49,8 +48,7 @@ public class ImageRecognition : MonoBehaviour
            // _arTrackedImageManager.trackedImagePrefab.SetActive(true);
            // trackedImage.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
             ui.SetActive(true);
-            trackedImage.transform.position = trackedImage.transform.position;
-            trackedImage.transform.rotation = trackedImage.transform.rotation;
+            
 
         }
         

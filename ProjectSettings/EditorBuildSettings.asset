@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scene/GPS_Scene.unity
+    guid: a94470b8aa9c7914cbd793df1ce507a3
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3eaed4ea227943441a286cf41fa98099, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 084f94a2705d24d48915527d67787003, type: 2}

@@ -12,16 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: ReferenceImageLibrary
   m_EditorClassIdentifier: 
-  m_GuidLow: 5702347842496859531
-  m_GuidHigh: 11882002336758829955
+  m_GuidLow: 4643277651836291267
+  m_GuidHigh: 1300250678982877341
+  m_DataStore:
+    m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4701776066877808098
-      m_GuidHigh: 5240858492719722917
+      m_GuidLow: 5457434173347884756
+      m_GuidHigh: 15699767200866086828
     m_SerializedTextureGuid:
-      m_GuidLow: 13431091347878888336
-      m_GuidHigh: 12623949322446030521
-    m_Size: {x: 0.1, y: 0.052083336}
+      m_GuidLow: 9769674966470726277
+      m_GuidHigh: 2562335538698944299
+    m_Size: {x: 0.0698602, y: 0.04309176}
     m_SpecifySize: 1
-    m_Name: onepiece
-    m_Texture: {fileID: 0}
+    m_Name: jadida
+    m_Texture: {fileID: 2800000, guid: bb839285db9e87942b7f82bb983e8f23, type: 3}

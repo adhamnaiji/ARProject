@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - watch
-  - watch1
-  - watch2
-  - watch3
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -39,7 +35,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - XR Simulation
   - 
   m_SortingLayers:
   - name: Default
